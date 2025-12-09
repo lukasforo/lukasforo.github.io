@@ -11,7 +11,7 @@ A security professional from Austria with a strong focus on DFIR, offensive secu
 
 My path into cyber security began at an HTL for IT, where I first got in touch with networking, systems, and programming. Quite early on, I noticed that security was the area that pulled me in the most. I was fascinated by how attacks actually work, how systems can be abused, and what it really takes to detect, understand, and contain them. What started as curiosity quickly turned into a clear direction: I wanted to build a career in security.
 
-After graduating from HTL, I spent my civil year working as a paramedic with the Red Cross. That time had a bigger impact on my work style than I expected. Being a paramedic meant dealing with stressful situations, making quick but informed decisions, communicating clearly with both colleagues and patients, and staying calm when things became chaotic. Those habits translated directly into incident response later on: when an incident happens, there is pressure, there are unknowns, and you still need to stay structured, prioritize correctly, and keep everyone aligned.
+After graduating from HTL, I spent my civil year working as a paramedic at the Red Cross. That time had a bigger impact on my work style than I expected. Being a paramedic meant dealing with stressful situations, making quick but informed decisions, communicating clearly with both colleagues and patients, and staying calm when things became chaotic. Those habits translated directly into incident response later on: when an incident happens, there is pressure, there are unknowns, and you still need to stay structured, prioritize correctly, and keep everyone aligned.
 
 ## Building a SOC – My Foundation
 
