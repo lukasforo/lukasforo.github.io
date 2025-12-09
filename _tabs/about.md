@@ -44,3 +44,4 @@ This blog is where I tie all of this together. I use it to share my thoughts on 
 My goal is not to present theory in a polished way, but to document real learnings, mistakes, and insights as they happen. If you are interested in DFIR, SOC operations, offensive security, or you are just starting your own journey in cyber security and wondering what the work actually looks like, I hope this space gives you something useful, relatable, and honest about where I come from and where I am going.
 
 
+
