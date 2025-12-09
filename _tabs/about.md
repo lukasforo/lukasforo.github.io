@@ -29,7 +29,7 @@ That SOC work is an important part of my story, because it is the base I was and
 
 Alongside my work, I am studying for a B.Sc. in Cyber Security to deepen the theoretical side of what I do. I enjoy connecting academic concepts with practical ones. 
 
-Besides my operational work, I also lecture at WIFI in Austria, where I teach in the Network Administrator and Cyber Security Expert courses. Teaching forces me to break down complex topics into something structured and practical, keeps me close to the questions and perspectives of people entering the field, reminds me where I started myself, and gives me a way to give something back to the community.
+Besides my operational work, I also lecture at WIFI in Austria, where I teach the Network Administrator and Cyber Security Expert courses. Teaching forces me to break down complex topics into something structured and practical, keeps me close to the questions and perspectives of people entering the field, reminds me where I started myself, and gives me a way to give something back to the community.
 
 To complement both the blue and red team perspectives, I have obtained several certifications over time, including the GIAC Certified Forensic Analyst (GCFA), Practical Network Penetration Tester (PNPT) from TCM Security, Blue Team Level 1 and Blue Team Level 2 from Security Blue Team, and the Palo Alto Certified Detection and Remediation Analyst. They reflect my interest in understanding both how attackers think and how defenders can respond effectively.
 
